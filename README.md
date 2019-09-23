@@ -1,2 +1,2 @@
 # ComputerGraphics
-stuff for ass 1
+stuff for as 1
