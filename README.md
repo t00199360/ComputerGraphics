@@ -1,2 +1,2 @@
 # ComputerGraphics
-stuff for as 1
+stuff for assignment 1
